@@ -13,9 +13,10 @@ This guide shows how to:
 
 ## 0) Prerequisites
 
-- You have access to a Slurm cluster (`sbatch` works).
 - You have Miniconda/Anaconda installed (or the cluster provides it).
-- Your project repo contains a `requirements.txt`.
+- You have the datasets downloaded.
+- You can download models from Huggingface.
+
 
 > **Important security note:** do **NOT** commit or hard-code your Hugging Face token in a job script. Use an environment variable instead.
 
