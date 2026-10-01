@@ -1,0 +1,16 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# Secrets
+.env
+
+# Run outputs and downloaded data (see README)
+logs/
+ckpt_emph/
+wandb/
+data/*.jsonl
