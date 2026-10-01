@@ -99,10 +99,9 @@ sbatch schedule.job
 
 ## Citation
 
-If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{li2026learning,
+@inproceedings{li2026hilight,
   title     = {Learning Evidence Highlighting for Frozen LLMs},
   author    = {Li, Shaoang and Shi, Yanhang and Li, Yufei and Liang, Mingfu and Wei, Xiaohan and Pu, Yunchen and Tian, Fei and Sun, Chonglin and Shyu, Frank and Pandey, Sandeep and Simon, Luke and Liu, Xi and Li, Jian},
   booktitle = {Advances in Neural Information Processing Systems},
