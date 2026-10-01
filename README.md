@@ -1,5 +1,5 @@
 # HiLight
-NeurIPS 2026: Learning Evidence Highlighting for Frozen LLMs
+Learning Evidence Highlighting for Frozen LLMs
 
 # Running the `schedule` Slurm job (with Conda + requirements.txt)
 
